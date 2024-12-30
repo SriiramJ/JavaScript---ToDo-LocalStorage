@@ -35,7 +35,7 @@ A modern web browser to run the application.
 
 2. Navigate to the project directory:  
    ```bash
-   cd todo-list
+   cd JavaScript---ToDo-LocalStorage
    ```
 
 3. Open `index.html` in your preferred browser to use the app.
