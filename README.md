@@ -1,6 +1,6 @@
 # JavaScript---ToDo- Using LocalStorage
 
-Here's a simple and professional README.md file for your GitHub repository:  
+
 
 ```markdown
 # To-Do List Web App
