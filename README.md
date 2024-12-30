@@ -15,11 +15,6 @@ A fully functional **To-Do List** web application built using `HTML`, `CSS`, and
 - Clear all tasks with a single click.
 - Persistent task storage using local storage (data remains even after closing the browser).
 
-## Demo
-
-![To-Do List Demo](demo-image-url)  
-*(Replace with a link to a screenshot or GIF of your web app.)*
-
 ## Getting Started
 
 ### Prerequisites
@@ -30,7 +25,7 @@ A modern web browser to run the application.
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Sriramj/todo-list.git
    ```
 
 2. Navigate to the project directory:  
